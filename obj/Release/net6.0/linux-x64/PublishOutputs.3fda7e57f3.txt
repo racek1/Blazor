@@ -1,0 +1,7 @@
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\MainServer
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\MainServer.dll
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\MainServer.deps.json
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\MainServer.runtimeconfig.json
+D:\Blazor\MainServer\MainServer\obj\Release\net6.0\linux-x64\PubTmp\Out\MainServer.pdb
